@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>20x20 Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="20x20-Icon" fill="#555C66">
+            <g id="iconmonstr-facebook-messenger-1">
+                <path d="M10,-5.92118946e-16 C4.4775,-5.92118946e-16 0,4.14583333 0,9.25916667 C0,12.1733333 1.45416667,14.7725 3.72666667,16.4691667 L3.72666667,20 L7.13166667,18.1316667 C8.04,18.3825 9.00333333,18.5183333 10,18.5183333 C15.5225,18.5183333 20,14.3733333 20,9.25916667 C20,4.14583333 15.5225,-3.55271368e-15 10,-3.55271368e-15 L10,-5.92118946e-16 Z M10.9941667,12.4691667 L8.4475,9.75333333 L3.47833333,12.4691667 L8.94416667,6.66666667 L11.5525,9.3825 L16.46,6.66666667 L10.9941667,12.4691667 L10.9941667,12.4691667 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
